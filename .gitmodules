@@ -1,0 +1,3 @@
+[submodule "GitSubModuleIntro"]
+	path = GitSubModuleIntro
+	url = https://github.com/tgbMedia/GitSubModuleIntro
